@@ -61,7 +61,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://github.com/hariharan"
+              href="https://github.com/hariharan346"
               target="_blank"
               rel="noopener noreferrer"
               className="group p-6 rounded-2xl bg-card border border-border/50 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 text-center"
@@ -74,7 +74,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://linkedin.com/in/hariharan"
+              href="https://www.linkedin.com/in/hariharan-b-r-a8415b28a/"
               target="_blank"
               rel="noopener noreferrer"
               className="group p-6 rounded-2xl bg-card border border-border/50 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 text-center"
